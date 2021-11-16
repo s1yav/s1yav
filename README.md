@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @s1yav and I love cats
-- AI enthusuast working on interesting projects
+- AI enthusiast working on interesting projects
 
 
 <!---
