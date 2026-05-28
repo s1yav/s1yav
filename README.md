@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @s1yav and I love cats
+- 👋 Hi, I’m @s1yav
 - AI enthusiast working on interesting projects
 
 
