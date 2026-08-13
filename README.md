@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @s1yav
-- AI evangelist
+- Hello. I’m @s1yav.
+- AI evangelist.
 
 
 <!---
