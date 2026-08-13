@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @s1yav
-- AI enthusiast working on interesting projects
+- AI evangelist
 
 
 <!---
