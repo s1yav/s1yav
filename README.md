@@ -1,5 +1,5 @@
 - Hello. I’m @s1yav.
-- Programmer
+- Programmer.
 - AI evangelist.
 
 
