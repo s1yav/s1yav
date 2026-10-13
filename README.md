@@ -1,6 +1,6 @@
 - Hello. I’m @s1yav.
 - Programmer.
-- AI evangelist.
+- AI evangelist, crypto-optimist.
 
 
 <!---
